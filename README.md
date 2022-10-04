@@ -1,7 +1,4 @@
 # CS205-ProjectProject 1: A Simple Calculator
-Name: 程司哲
-SID: 12112104
-
 
 Part 1 – Analysis
 
